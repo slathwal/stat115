@@ -1,0 +1,2 @@
+Bam_file	TIN(mean)	TIN(median)	TIN(stdev)
+Pairend_StrandSpecific_51mer_Human_hg19.bam	52.22960375702579	53.65704374751273	12.783651181070123
